@@ -20,9 +20,6 @@ setup_params = dict(
         'pytest',
         'pmxbot',
     ],
-    setup_requires=[
-        'pytest-runner',
-    ],
 )
 
 if __name__ == '__main__':
